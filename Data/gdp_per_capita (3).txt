@@ -1,0 +1,111 @@
+﻿Country;GDP per capita;Year
+Monaco;240,862;2022
+Liechtenstein;187,267;2022
+Luxembourg;135,321;2024
+Bermuda;123,091;2022
+Switzerland;106,098;2024
+Ireland;103,500;2024
+Cayman Islands;96,074;2022
+Norway;90,434;2024
+Singapore;89,370;2024
+United States;86,601;2024
+Iceland;85,787;2024
+Macau;77,186;2024
+Qatar;71,568;2024
+Denmark;69,273;2024
+Netherlands;67,984;2024
+Faroe Islands;66,979;2022
+Australia;65,966;2024
+Channel Islands;64,501;2022
+San Marino;59,841;2024
+Austria;58,669;2024
+Sweden;57,213;2024
+Belgium;56,129;2024
+Germany;55,521;2024
+Finland;54,774;2024
+Canada;53,834;2024
+Hong Kong;53,165;2024
+Israel;53,111;2024
+United Kingdom;52,423;2024
+Greenland;57,116;2021
+United Arab Emirates;49,550;2024
+France;48,012;2024
+New Zealand;47,072;2024
+Andorra;45,279;2024
+Malta;44,140;2024
+European Union;43,350;2024
+Italy;40,287;2024
+Aruba;39,697;2024
+Puerto Rico;37,926;2024
+Cyprus;37,767;2024
+Bahamas;36,322;2024
+South Korea;36,132;2024
+Spain;35,789;2024
+Brunei;34,872;2024
+Slovenia;34,544;2024
+Taiwan;33,234;2024
+Saudi Arabia;32,881;2024
+Japan;32,859;2024
+Kuwait;32,290;2024
+Estonia;31,531;2024
+Czech Republic;31,366;2024
+Bahrain;29,573;2024
+Portugal;29,341;2024
+Guyana;28,921;2024
+Lithuania;28,713;2024
+Slovakia;26,290;2024
+Barbados;24,759;2024
+Greece;24,342;2024
+Latvia;24,223;2024
+Saint Kitts and Nevis;24,203;2024
+Hungary;23,881;2024
+Poland;23,563;2024
+Croatia;23,380;2024
+Uruguay;23,053;2024
+Antigua and Barbuda;22,118;2024
+Seychelles;21,290;2024
+Oman;20,631;2024
+Romania;20,089;2024
+Trinidad and Tobago;19,703;2024
+Panama;19,369;2024
+Palau;17,978;2024
+Costa Rica;17,860;2024
+Maldives;17,287;2024
+Bulgaria;17,069;2024
+Vanuatu;15,946;2024
+Belize;15,431;2024
+Dominica;14,132;2024
+Kyrgyzstan;13,806;2024
+Armenia;16,744;2024
+Fiji;16,463;2024
+Moldova;13,419;2024
+Saint Lucia;13,022;2024
+Saint Vincent and the Grenadines;12,352;2024
+Ecuador;12,285;2024
+Bosnia and Herzegovina;12,130;2024
+Albania;12,076;2024
+Serbia;11,926;2024
+Colombia;11,395;2024
+Dominican Republic;11,362;2024
+El Salvador;10,866;2024
+Jordan;10,522;2024
+Egypt;10,161;2024
+Uzbekistan;9,953;2024
+Morocco;9,331;2024
+Guatemala;9,271;2024
+Armenia;8,831;2024
+Angola;8,021;2024
+Bangladesh;6,420;2024
+Nepal;5,686;2024
+Zimbabwe;5,616;2024
+Sri Lanka;5,594;2024
+Kenya;4,909;2024
+Honduras;4,675;2024
+Mali;4,656;2024
+Mozambique;4,455;2024
+Uganda;4,387;2024
+Tanzania;4,366;2024
+Madagascar;4,061;2024
+Chad;3,416;2024
+Niger;3,374;2024
+Burkina Faso;3,241;2024
